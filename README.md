@@ -6,7 +6,7 @@
 
 ## run a fox container
 
-    docker run -d -e XMX=8G --name fox -p 4444:4444 earthquakesan/fox
+    docker run -d -e XMX=8G -e LNG=en --name fox -p 4444:4444 earthquakesan/fox
 
 To configure fox at runtime use the following environment variables, set them `-e <Variable>=<Value>[-e ...[]]
 
