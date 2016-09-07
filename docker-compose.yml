@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  fox:
+    image: bde2020/fox:latest
+    environment:
+      - XMX=8G
+      - LNG=en
+    ports:
+      - "4444:4444"
+
