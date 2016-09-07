@@ -1,4 +1,4 @@
-# Docker Image: Federated knOwledge eXtraction Framework (FOX)
+# Federated knOwledge eXtraction Framework (FOX)
 
 **Academic use only! See LICENSE section below.**
 
