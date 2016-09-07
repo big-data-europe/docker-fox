@@ -32,6 +32,7 @@ We include example docker-compose.yml definition in this repository. You can run
 ```
 docker-compose up -d
 ```
+
 ## Accessing FOX interface
 After exposing port 4444, the FOX application should be accessible through the browser following the http://docker-host:4444 URI. You will see an interface as follows:
 ![alt text](./fox-home-page.png "FOX Homepage Screenshot")
